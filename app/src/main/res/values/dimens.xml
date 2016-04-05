@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="friendNameMarginleftright">10dp</dimen>
+    <dimen name="friendNameMargintopbottom">20dp</dimen>
+    <dimen name="friendNameMarginpadding">4dp</dimen>
+    <dimen name="defaultpadding">10dp</dimen>
+    <dimen name="friendNametextSize">10dp</dimen>
+    <dimen name="friendNamesubtextSize">15dp</dimen>
+    <dimen name="titletextSize">20dp</dimen>
+    <dimen name="weblinktextSize">15dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+</resources>

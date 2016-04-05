@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="file_name">sample_response.json</string>
+    <string name="simple_card">simple_card</string>
+</resources>
